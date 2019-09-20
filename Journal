@@ -1,5 +1,9 @@
-Reflection September 18th
-Today we started the class with coffeescripts, a programming language that comlies to JavaScript. We did not actually do very 
-very much coding. It was about how to write functions and priting in the console, which will be useful for us for debugging. 
-After this we did a little of IB questions. We also checked a few IAs, and their wordcount, which gave me a better idea of 
-how to do the documentation part of the IA. 
+Reflection Sep 20th
+Today the class started working with Coffee script. We have been developing a small program that encodes messages, given a key.
+Previous days we were mostly working on the design, but today we actually worked on the logical part, and it made me really 
+happy when we finally made the program work, Even though I didn't understand most of the logic behind it, I'll be working on my 
+own to try to figure out. After we finished developing encryption tool, we studied a little bit packet switchning with a gif 
+animation, which I think was pretty useful. After that we started working on our IAs. I was able to finish the Forgot password 
+of the software I am developing and it made me really happy. I have also been working on return books page, but a bug has been 
+causing me trouble and I am not able to fix it yet. Overall this today, was productive to some extent, but still I am not 
+satisfied.
