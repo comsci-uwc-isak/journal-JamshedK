@@ -1,6 +1,6 @@
 Questions and answers
 1) Information capacity of SHA256 hash? 
-    2 to the power 64 bytes - 18, 446 petabytes 
+- 2 to the power 64 bytes - 18, 446 petabytes 
 2) What is the number of leading zeros currently used in the hash for Bitcoin?
 	19 
 3) What is the desired time required to find a Hash in Bitcoin?
