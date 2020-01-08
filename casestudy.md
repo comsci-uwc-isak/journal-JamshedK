@@ -15,6 +15,10 @@ Questions and answers
 9) Distribution of bitcoin owners? 
 - 30% of owners own 98.3%  
 10) What is a Merkle Tree
+
+
+
+
 11) Definition of Genesis block 
 - Genesis block is the first block in the blockchain. Previosuly it was counted it as block 1. But currently modern versions of bitcoin count in as block 0. 
 
